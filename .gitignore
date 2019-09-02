@@ -1,0 +1,6 @@
+/target/
+/bin/
+/geckodriver.exe/
+.classpath
+.project
+.geckodriver.exe
